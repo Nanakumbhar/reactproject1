@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_f8wi5Im5oYkZyaptgVMXnPGuAiwTJNp2A&usqp=CAU")
+};
